@@ -7,7 +7,7 @@ export const Index = () => {
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={<Employees />} />
+        <Route exact path="/employees" element={<Employees />} />
         <Route exact path="/view" element={<View />} />
       </Routes>
     </Router>

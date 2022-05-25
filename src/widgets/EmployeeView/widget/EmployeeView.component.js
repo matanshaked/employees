@@ -12,7 +12,7 @@ export default class EmployeeViewComponent extends Component {
     return (
       <div className="container-fluid">
         <div>
-          <Link className="col-md-1 blue-button" role="button" to="/">
+          <Link className="col-md-1 blue-button" role="button" to="/employees">
             Back to Employee List
           </Link>
         </div>
