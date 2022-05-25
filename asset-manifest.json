@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-personlist/static/css/main.ddcb240e.css",
+    "main.js": "/react-redux-personlist/static/js/main.59fe22b9.js",
+    "index.html": "/react-redux-personlist/index.html",
+    "main.ddcb240e.css.map": "/react-redux-personlist/static/css/main.ddcb240e.css.map",
+    "main.59fe22b9.js.map": "/react-redux-personlist/static/js/main.59fe22b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcb240e.css",
+    "static/js/main.59fe22b9.js"
+  ]
+}
